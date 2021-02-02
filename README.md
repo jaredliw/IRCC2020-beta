@@ -1,7 +1,7 @@
 # IRCC2020-beta
 
 ## Introduction
-**International Robotics & Coding Competition (IRCC)** is an annual robotics competition organised by Techtronics. This competiton is open to all students around the globe. Participants are asked to sit for a theory test and solve for 5 problems on the spot (all about BBC micro:bit Board). For more infomation, you may refer to the official website: [https://sites.google.com/intelek.edu.my/ircc2020](https://sites.google.com/intelek.edu.my/ircc2020)
+**International Robotics & Coding Competition (IRCC)** is an annual robotics competition organised by Techtronics. This competiton is open to all students around the globe. Participants are asked to sit for a theory test and solve for 5 problems on the spot (all about BBC micro:bit Board). For more information, you may refer to the official website: [https://sites.google.com/intelek.edu.my/ircc2020](https://sites.google.com/intelek.edu.my/ircc2020)
 
 This repo will discuss the solutions to the Live Coding Session of IRCC 2020, category β (Beta) \[Age 13-18]. (There are a few sets of problems, here is one of them.)
 
